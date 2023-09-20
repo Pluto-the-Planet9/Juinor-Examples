@@ -20,7 +20,6 @@ change2 = change1 % quap
 
 dim = math.floor(change2 / dimp)
 print("You have", dim, "dimes")
-#Test
 
 change3 = change2 % dimp
 
@@ -29,3 +28,6 @@ print("You have", nik, "Nickels")
 
 finpen = math.floor(change3 % nikp)
 print("You have", finpen, "Pennies")
+
+
+# THiS IS A TEST COMMENT.
